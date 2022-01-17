@@ -63,15 +63,15 @@ public class Splash extends AppCompatActivity {
             waveHeader.setProgress(1);
             waveHeader.isRunning();
             waveHeader.setGradientAngle(45);
-            waveHeader.setStartColor(Color.BLACK);
-            waveHeader.setCloseColor(Color.CYAN);
+            waveHeader.setStartColor(Color.WHITE);
+            waveHeader.setCloseColor(Color.WHITE);
 
             waveFooter.setVelocity(2);
             waveFooter.setProgress(1);
             waveFooter.isRunning();
             waveFooter.setGradientAngle(45);
-            waveFooter.setStartColor(Color.CYAN);
-            waveFooter.setCloseColor(Color.DKGRAY);
+            waveFooter.setStartColor(Color.WHITE);
+            waveFooter.setCloseColor(Color.WHITE);
 
 
 

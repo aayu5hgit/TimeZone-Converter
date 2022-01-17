@@ -219,7 +219,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/alegreya_sans_sc_bold"
-        android:text="------------Time Zones------------"
+        android:text="------Time Zones------"
         android:textColor="#FFFFFF"
         android:textSize="34sp"
         android:textStyle="bold"
